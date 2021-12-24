@@ -1,6 +1,8 @@
 # Carlorg
+An organization for creating websites. 
 
-##Tech Stack
+
+## Tech Stack
 
 ### MongoDB
 For database we use MongoDB Atlas.
