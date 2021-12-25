@@ -14,12 +14,6 @@ The front-end will consist of a ReactJS application.
 
 [Read More](https://reactjs.org/)
 
-### NodeJS
-The server will be hosted with NodeJS
-
-[Read More](https://nodejs.org/en/)
-### Express
-
 ### Amplify
 Amplify will be used for hosting the front-end application. It will also be used to create Lambda functions to interact with the MongoDB database.
 
