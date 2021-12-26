@@ -19,12 +19,27 @@ Amplify will be used for hosting the front-end application. It will also be used
 
 [Serverless Functions](https://www.youtube.com/watch?v=y4Obz26GkCk&t=5s&ab_channel=NaderDabit)
 
+### Sass
+
+[Sass Guidelines](https://sass-guidelin.es/#top)
+
+[Dealing With Color Schemes](https://www.sitepoint.com/dealing-color-schemes-sass/)
+
 ## Modules
 
-### E-Commerce
+### Admin Platform
 
-### Email Sender
+### E-Commerce API
 
 ### Content Creator
 
 ## DevOps
+
+
+## Getting Started
+
+###Creating a new project
+Run the following commands in the terminal where you want to create the application
+
+1. `npx create-react-app <NAME OF APPLICATION>`
+2.
